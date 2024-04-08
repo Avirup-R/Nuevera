@@ -21,8 +21,8 @@ def data_parse(location):
 
     headers = {
         ##enter your api key here
-        "X-RapidAPI-Key": "0ac90eb4dbmsh6f259e6d47e26fcp1f9fb7jsnef7585df94db",
-        "X-RapidAPI-Host": "airbnb13.p.rapidapi.com"
+        "X-RapidAPI-Key": '',
+        "X-RapidAPI-Host": ''
     }
 
 
